@@ -3,9 +3,9 @@ Unit 2: Homework Assignment: Automate Your Day Job with Python
 
 ## PyBank (Required)
 
-![pybank](Images/pybank.jpeg) 
-![PyBank](https://thumbs.dreamstime.com/z/accounting-software-finances-investments-piggy-bank-pink-pig-calculator-accounting-family-budget-accounting-accounting-165823927.jpg "a title")
-https://thumbs.dreamstime.com/z/accounting-software-finances-investments-piggy-bank-pink-pig-calculator-accounting-family-budget-accounting-accounting-165823927.jpg
+
+![PyBank](Images/pybank.jpeg)
+
 
 In have created a Python script for analyzing the financial records of my company from the financial dataset: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
 
@@ -23,7 +23,8 @@ I have created a Python script that analyzes the records to calculate each of th
 
 ## PyRamen (Optional)
 
-![ramen.jpg](Images/ramen.jpeg)
+
+![Ramen](https://thumbs.dreamstime.com/z/japanese-ramen-soup-tofu-egg-dark-stone-background-miso-noodles-ceramic-bowl-asian-traditional-food-104613696.jpg "Ramen")
 
 ## Background
 
