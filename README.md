@@ -3,7 +3,7 @@ Unit 2: Homework Assignment: Automate Your Day Job with Python
 
 ## PyBank (Required)
 
-![Revenue](Images/revenue-per-lead.jpg)
+![PyBank](Images/pybank.jpg)
 
 In have created a Python script for analyzing the financial records of my company from the financial dataset: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
 
