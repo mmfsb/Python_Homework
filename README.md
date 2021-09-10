@@ -44,4 +44,4 @@ In this homework assignment, I will read and manipulate the following datasets:
 
 2. [sales_data.csv](PyRamen/Resources/sales_data.csv)
 
-![Cat_Ramen(Images/cat_ramen.jpeg)
+![CatRamen](Images/cat_ramen.jpeg)
