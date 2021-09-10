@@ -7,7 +7,7 @@ Unit 2: Homework Assignment: Automate Your Day Job with Python
 ![PyBank](Images/pybank.jpeg)
 
 
-In have created a Python script for analyzing the financial records of my company from the financial dataset: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
+I have created a Python script for analyzing the financial records of my company from the financial dataset: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
 
 I have created a Python script that analyzes the records to calculate each of the following:
 
@@ -24,7 +24,7 @@ I have created a Python script that analyzes the records to calculate each of th
 ## PyRamen (Optional)
 
 
-![Ramen](https://thumbs.dreamstime.com/z/japanese-ramen-soup-tofu-egg-dark-stone-background-miso-noodles-ceramic-bowl-asian-traditional-food-104613696.jpg "Ramen")
+![Ramen](Images/ramen.jpeg)
 
 ## Background
 
@@ -38,10 +38,10 @@ You tried doing this type of per-product analysis last year in Excel, but you we
 
 Enter Python! Python provides a wide range of capabilities for handling data, harnessing the power of low-level Python data structures and high-level development libraries, all the while supporting the automation and scalability needs for a growing enterprise.
 
-In this homework assignment, I will:
+In this homework assignment, I will read and manipulate the following datasets:
 
-1. Read the Data
+1. [menu_data.csv](PyRamen/Resources/menu_data.csv)
 
-2. Manipulate the Data
+2. [sales_data.csv](PyRamen/Resources/sales_data.csv)
 
 
