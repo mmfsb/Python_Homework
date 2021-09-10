@@ -28,7 +28,7 @@ I have created a Python script that analyzes the records to calculate each of th
 
 ## Background
 
-![Welcome to Ichiban Ramen!](Images/cat_ramen.jpeg)
+Welcome to Ichiban Ramen!
 
 Opening a ramen shop has always been your dream, and now it's finally been realized––you're closing out on your second year of sales! Like last year, you need to analyze your business's financial performance by cross-referencing your sales data with your internal menu data to figure out revenues and costs for the year.
 
@@ -44,4 +44,4 @@ In this homework assignment, I will read and manipulate the following datasets:
 
 2. [sales_data.csv](PyRamen/Resources/sales_data.csv)
 
-
+![Cat_Ramen(Images/cat_ramen.jpeg)
